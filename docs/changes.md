@@ -64,7 +64,6 @@
 - [App] Fix incorrect recovery mode detection and installation
 - [MagiskInit] Fix config not properly exported in legacy SAR devices
 - [General] Enforce the Magisk app to always match or be newer than `magiskd`
-
 ### v25.0
 
 - [MagiskInit] Update 2SI implementation, significantly increase device compatibility (e.g. Sony Xperia devices)
